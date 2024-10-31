@@ -1,10 +1,14 @@
 credit to user Rerosu#3144 on Discord.
 
-## how to use tool
+This is just another content crawling for mnemonics, tweaked from https://github.com/aanhlle/getmaziicomment
+It will crawl the first mnemonic for a word on mnemonicdictionary.com and output.
+I added a crawling progress bar.
+
+## How to use this script
 1. Open cmd or terminal directory
 2. npm install - install node modules library
 3. node index [file_input_name] [file_output_name] - run the script file
-4.Waiting for "COMPLETED" appears (you can press CTRL + C to stop the script file)
+4. Wait for "COMPLETED" appears (you can press CTRL + C to stop the script file)
 
 
 ## Notes:
@@ -17,13 +21,13 @@ credit to user Rerosu#3144 on Discord.
 > node index kanji output
 
 ----
-Hướng dẫn sử dụng tool: 
+Hướng dẫn sử dụng script: 
 
-## cách sử dụng tool
+## Cách sử dụng script
 1. Mở cmd hoặc terminal thư mục
 2. npm install - cài đặt thư viện node modules
 3. node index [file_input_name] [file_output_name] - chạy file script
-4. chờ đợi đến khi xuất hiện "COMPLETED" ( có thể ấn tổ hợp CTRL + C để dừng file script)
+4. Chờ đến khi xuất hiện "COMPLETED" ( có thể ấn tổ hợp CTRL + C để dừng file script)
 
 
 ## Notes:
