@@ -1,7 +1,9 @@
 credit to user Rerosu#3144 on Discord.
 
 This is just another content crawling for mnemonics, tweaked from https://github.com/aanhlle/getmaziicomment
+
 It will crawl the first mnemonic for a word on mnemonicdictionary.com and output.
+
 I added a crawling progress bar.
 
 ## How to use this script
@@ -20,8 +22,7 @@ I added a crawling progress bar.
 ## run demo:
 > node index kanji output
 
-----
-Hướng dẫn sử dụng script: 
+--VIETNAMESE--
 
 ## Cách sử dụng script
 1. Mở cmd hoặc terminal thư mục
